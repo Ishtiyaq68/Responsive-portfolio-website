@@ -3,4 +3,3 @@
 <li>CSS</li>
 <li>JavaScript</li>
 <li>Google Fonts API</li>
-<li>footer hover</li>
